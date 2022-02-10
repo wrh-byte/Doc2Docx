@@ -240,7 +240,7 @@ def document_classify():
         if path_array[1] == '.docx':
             cv_list.append(os.getcwd() + "\\Document\\" + fileName)
             doc_name.append(fileName)
-    # test2
+
     result_path = os.getcwd() + "\\Result"
     i = 0
     for path in cv_list:
@@ -277,4 +277,3 @@ def mkdir(path):
 
 if __name__ == '__main__':
     document_classify()
-    # test1
