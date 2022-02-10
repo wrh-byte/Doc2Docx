@@ -277,3 +277,4 @@ def mkdir(path):
 
 if __name__ == '__main__':
     document_classify()
+    # test1
