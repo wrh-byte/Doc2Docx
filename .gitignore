@@ -3,4 +3,5 @@
 /workspace.xml
 /DocClassify/Document/
 /DocClassify/Result/
-BatchDownloadFromUrl/
+/BatchDownloadFromUrl/DownLoadFile/
+/BatchDownloadFromUrl/UrlFile/
